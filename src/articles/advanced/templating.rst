@@ -4,6 +4,7 @@ Templating using Jinja2
 :date: 2013-07-16 22:00
 :slug: Templating and Jinja2
 :summary: Using templating to dynamically create text files
+:author: Phong Le
 
 Templating is the process of taking information and placing it in a pre-defined set of text to produce a customized text file. This is particularly useful in the context of web development because the process of web templating is used extensively to create "dynamically generated" web pages.
 

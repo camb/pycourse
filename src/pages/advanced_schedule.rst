@@ -20,24 +20,24 @@ Schedule
 +-------------+----------------------------------------------+--------+
 |July 9, 2013 | Templates (Jinja2)                           | Fong   |
 +-------------+----------------------------------------------+--------+
-|July 16, 2013| API Talk                                     | Alex   |
+|July 30, 2013| API Talk                                     | Alex   |
 +-------------+----------------------------------------------+--------+
-|July 23, 2013| Advanced SQL Alchemy                         | Joe    |
+|Aug 13, 2013 | Advanced SQL Alchemy                         | Joe    |
 +-------------+----------------------------------------------+--------+
-|July 30, 2013| Testings Unittest and Nosetest               | James  |
+|Aug 20, 2013 | Testings Unittest and Nosetest               | James  |
 +-------------+----------------------------------------------+--------+
-|Aug 6, 2013  | Advanced Testing django, pyramid and mock    | James  |
+|Aug 27, 2013 | Advanced Testing django, pyramid and mock    | James  |
 +-------------+----------------------------------------------+--------+
-|Aug 13, 2013 | Database Modeling                            | Paul   |
+|Sept 3, 2013 | Database Modeling                            | Paul   |
 +-------------+----------------------------------------------+--------+
-|Aug 20, 2013 | Design Patterns                              | Liz    |
+|Sept 10, 2013| Design Patterns                              | Liz    |
 +-------------+----------------------------------------------+--------+
-|Aug 27, 2013 | When not to use python                       | Jade   |
+|Sept 17, 2013| When not to use python                       | Jade   |
 +-------------+----------------------------------------------+--------+
-|Aug 27, 2013 | Reading Code                                 | Camron |
+|Sept 24, 2013| Reading Code                                 | Camron |
 +-------------+----------------------------------------------+--------+
-|Aug 27, 2013 | Pyton Best Practices                         | Jordon |
+|Oct 1, 2013  | Pyton Best Practices                         | Jordon |
 +-------------+----------------------------------------------+--------+
-|Aug 27, 2013 | Packaging                                    | Teddy  |
+|Oct 8, 2013  | Packaging                                    | Teddy  |
 +-------------+----------------------------------------------+--------+
 
