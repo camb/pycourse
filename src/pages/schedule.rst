@@ -33,7 +33,7 @@ Schedule
 
 .. _Think Python Chapter 1: http://www.greenteapress.com/thinkpython/html/thinkpython002.html
 .. _Learn Python the Hard Way Exercise 0: http://learnpythonthehardway.org/book/ex0.html
-.. _Think Python Chapter 2: reference external" href="http://www.greenteapress.com/thinkpython/html/thinkpython003.html
+.. _Think Python Chapter 2: http://www.greenteapress.com/thinkpython/html/thinkpython003.html
 .. _LPTHW Exercise 3: http://learnpythonthehardway.org/book/ex3.html
 .. _Think Python Chapter 3: http://www.greenteapress.com/thinkpython/html/thinkpython004.html
 
