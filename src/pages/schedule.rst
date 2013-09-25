@@ -6,10 +6,7 @@ Class Schedule
 
 Schedule
 --------
-
 +--------------------+-----------------------------------------------------------+
-| Date               | Topics Covered                                            |
-+====================+===========================================================+
 | October 2, 2013    | Prerequisite Work                                         |
 |                    | Read `Think Python Chapter 1`_ 1.0-1.6                    |
 |                    | Read `Learn Python the Hard Way Exercise 0`_ - The Setup  |
@@ -25,7 +22,7 @@ Schedule
 |                    |                                                           |
 |                    | Class Activity                                            |
 |                    | Exercises 4-12 in LPTHW                                   |
-+-----------------+--------------------------------------------------------------+
++--------------------+-----------------------------------------------------------+
 | October 16th, 2013 | Prerequisite Work                                         |
 |                    | Read `Think Python Chapter 3`_ 3.0-3.14                   |
 |                    |                                                           |
