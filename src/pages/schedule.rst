@@ -7,63 +7,37 @@ Class Schedule
 Schedule
 --------
 
-+-------------+--------------------------------------------------------------+
-| Date        | Topics Covered                                               |
-+=============+==============================================================+
-| May 1, 2013 | Lessons 1-9 in `Learn Python the Hard Way`_ This week we will|
-|             | cover some basics of input and output in python.             |
-|             | Homework Lesson 10 and read PEP8_                            |
-+-------------+--------------------------------------------------------------+
-| May 8, 2013 | Lessons 11-15 This week we will look at getting data in our  |
-|             | program from the user and possibly external files. Homework  |
-|             | read over Lesson 15 and 16                                   |
-+-------------+--------------------------------------------------------------+
-| May 15, 2013| Lessons 15-18 This week we are going to all about reading and|
-|             | writing files. Homework practice lessons 15-18.              |
-+-------------+--------------------------------------------------------------+
-| May 22, 2013| Lessons 18-24 We are going to learn about functions in       |
-|             | python. This is a way to break up your programs into smaller |
-|             | manageable chunks. Homework: All work completed up through   |
-|             | lesson 24.                                                   |
-+-------------+--------------------------------------------------------------+
-| May 29, 2013| Lessons 27-31 Decision making. This week we will take a look |
-|             | at how you make your programs make decisions                 |
-+-------------+--------------------------------------------------------------+
-| June 5, 2013| Lessons 32-35 Loops and Lists. This week your homework is    |
-|             | important. **Homework lesson 36 homework section**. We will  |
-|             | review it next week in class.                                |
-+-------------+--------------------------------------------------------------+
-|June 12, 2013| Lesson 36 in class review. This week we will take time to    |
-|             | review lesson 36. This is one of the most interesting and    |
-|             | entertaining classes in the whole course. This is one week   |
-|             | not to miss.                                                 |
-+-------------+--------------------------------------------------------------+
-|June 19, 2013| Lessons 37-40 Dictionaries and modules. Intro to object      |
-|             | oriented programing.                                         |
-+-------------+--------------------------------------------------------------+
-|June 19, 2013| Dictionaries and modules. Intro to object oriented           |
-|             | programing.                                                  |
-+-------------+--------------------------------------------------------------+
-|June 26, 2013| Class Canceled                                               |
-+-------------+--------------------------------------------------------------+
-|July 3, 2013 | Lessons 41-44 All OOP all the time                           |
-+-------------+--------------------------------------------------------------+
-|July 10, 2013| Lessons 45 and 46 Shall we play a game?                      |
-+-------------+--------------------------------------------------------------+
-|July 17, 2013| ** No Class Kellan out of Town **                            |
-+-------------+--------------------------------------------------------------+
-|July 24, 2013| Testing and Exception handling. I don't like the lessons that|
-|             | are in the book so we will review this ourselves.            |
-+-------------+--------------------------------------------------------------+
-|July 31, 2013| Prep for people moving on to the advanced class. Setup       |
-|             | github accounts. git tutorial                                |
-+-------------+--------------------------------------------------------------+
++--------------------+-----------------------------------------------------------+
+| Date               | Topics Covered                                            |
++====================+===========================================================+
+| October 2, 2013    | Prerequisite Work                                         |
+|                    | Read `Think Python Chapter 1`_ 1.0-1.6                    |
+|                    | Read `Learn Python the Hard Way Exercise 0`_ - The Setup  |
+|                    | Complete Exercises 1.3 and 1.4 in Think Python            |
+|                    |                                                           |
+|                    | Class Activity                                            |
+|                    | Class Introduction, Resources and Links, and Light Coding |
++--------------------+-----------------------------------------------------------+
+| October 9th, 2013  | Prerequisite Work                                         |
+|                    | Read `Think Python Chapter 2`_ 2.0-2.10                   |
+|                    | Memorize operators in `LPTHW Exercise 3`_                 |
+|                    | Complete Exercise 2.3 and 2.4 in Think Python             |
+|                    |                                                           |
+|                    | Class Activity                                            |
+|                    | Exercises 4-12 in LPTHW                                   |
++-----------------+--------------------------------------------------------------+
+| October 16th, 2013 | Prerequisite Work                                         |
+|                    | Read `Think Python Chapter 3`_ 3.0-3.14                   |
+|                    |                                                           |
+|                    | Class Activity                                            |
+|                    | LPTHW Exercises 13-17                                     |
++--------------------+-----------------------------------------------------------+
 
-.. _python: http://www.python.org
-.. _PEP8: http://www.python.org/dev/peps/pep-0008/
-.. _SQLAlchemy: http://www.sqlalchemy.org/
-.. _PostgreSQL: http://www.postgresql.org/
-.. _Psycopg: http://initd.org/psycopg/
-.. _`Learn Python the Hard way`: http://learnpythonthehardway.org/book/
+
+.. _Think Python Chapter 1: http://www.greenteapress.com/thinkpython/html/thinkpython002.html
+.. _Learn Python the Hard Way Exercise 0: http://learnpythonthehardway.org/book/ex0.html
+.. _Think Python Chapter 2: reference external" href="http://www.greenteapress.com/thinkpython/html/thinkpython003.html
+.. _LPTHW Exercise 3: http://learnpythonthehardway.org/book/ex3.html
+.. _Think Python Chapter 3: http://www.greenteapress.com/thinkpython/html/thinkpython004.html
 
 
